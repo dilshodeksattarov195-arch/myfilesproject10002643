@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "helpercync",
+        "uuid": 14499498,
+        "checksum": "s48jjg"
+    },
+    "settings": {
+        "retries": 4,
+        "enabled": true,
+        "mode": "production"
+    }
+}
